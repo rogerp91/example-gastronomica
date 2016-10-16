@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wheel="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- Login progress -->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center" >
+
+	    <mobi.gastronomica.components.ProgressWheel
+	        android:id="@+id/progress"
+            android:visibility="gone"
+	        android:layout_width="80dp"
+	        android:layout_height="match_parent"
+	        android:layout_gravity="center"
+            wheel:matProg_progressIndeterminate="true"	        
+	        wheel:matProg_barColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/btn_no_conexion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="No se pudo cargar el contenido"
+            android:visibility="gone" />
+    </LinearLayout>
+ 		
+</merge>

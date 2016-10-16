@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Gastronómica</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_activity_base">ActivityBase</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Fragment Main-->
+    <string name="donde_ir">Donde ir</string>
+    <string name="eventos">Eventos</string>
+    <string name="colaboradores">Colaboradores</string>
+
+    <!-- Cerca de Mi-->
+    <string name="cerca_de_mi">Donde Ir</string>
+
+    <!-- Fragment Restaurantes -->
+    <string name="restaurantes">Restaurantes</string>
+    <string name="no_contenido">No se pudo cargar el contenido</string>
+
+    <!-- onLine-->
+    <string name="no_conexion">No tiene conexión</string>
+    <string name="no_conexion_2">Conéctese a una red móvil o WI-FI para continuar</string>
+    <string name="volver_intertarlo">VOLVER A INTERTARLO</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+
+    <!-- ViewPager -->
+    <string name="info">Info</string>
+    <string name="resena">Reseña</string>
+
+    <!-- Information Fragment -->
+    <string name="no_aplica">No aplica</string>
+    <string name="no_phone">No tiene telefono registrado</string>
+    <string name="no_mobil_phone">No tiene telefono movíl registrado</string>
+    <string name="no_email">No tiene email registrado</string>
+    <string name="no_website">No tiene sitio web registrado</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="menu">Menú</string>
+    <string name="regionales">Regionales</string>
+    <string name="local">Local</string>
+    <string name="servicio">Servicio</string>
+    <string name="tipo">Tipo</string>
+    <string name="especialidad">Especialidad</string>
+    <string name="caracteristica">Caracteristica:</string>
+    <string name="horarios">Horarios:</string>
+    <string name="servicios">Servicios</string>
+    <string name="forma_pago">Forma de Pago:</string>
+    <string name="title_activity_register">Registro</string>
+    <string name="title_activity_log_in">Ingresar</string>
+
+    <!-- Register Activity -->
+    <string name="name">Nombre</string>
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="password_confirmar">Confirmar contraseña</string>
+
+    <string name="not_empty">El campo no puede ir vacio</string>
+    <string name="validation_name">Introduzca un nombre valido</string>
+    <string name="min_length_name">Minimo 3 caracteres</string>
+    <string name="validation_email">Introduzca una dirección de correo valida</string>
+    <string name="min_length_password">Minimo 4 caracteres</string>
+
+    <!-- LogInActivity -->
+    <string name="name_user_email">E-mail</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="no_cuenta">¿Aun no tienes cuenta?</string>
+    <string name="registrate">Registrate</string>
+
+    <string name="drawer_open">Abrir Menú</string>
+    <string name="drawer_close">Cerrar Menú</string>
+
+    <!-- NavigationDrawer -->
+    <string name="agenda">Agenda</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="change_pass">Cambiar Contraseña</string>
+    <string name="longout">LogOut</string>
+    <string name="about">Acerca de</string>
+    <string name="title_activity_view_pager_activity_eventos">Eventos</string>
+
+    <!-- Eventos -->
+    <string name="reientes">Recientes</string>
+    <string name="pasados">Pasados</string>
+    <string name="no_ubicacion">Intente de nuevo para conseguir su ubicación</string>
+
+    <!-- Dialog -->
+    <string name="gastronomica_location_title">Gastronomica y Localización</string>
+    <string name="gastronomica_location_body">Se usaras los servicos de localización para ubicar los restaurantes mas cercanos</string>
+    <string name="agree">Aceptar</string>
+    <string name="disagree">Cancelar</string>
+    <string name="title_activity_maps_activity_example">Map</string>
+
+    <string name="conectese">Activar el GPS para conseguir suposicion actual.</string>
+    <string name="title_conectese">Localización</string>
+    <string name="no_location">Su ubicación no está disponible, por favor intente de nuevo.</string>
+
+    <!-- MainActivity-->
+    <string name="cerrar_session">Cerrar sesión</string>
+    <string name="msj_cerrar_session">¿Estás seguro? Al cerrar la sessión se eliminarán todos los datos de Gastronomica de este dispositivo.</string>
+    <string name="title_activity_reset_password_email">Restablecer Contraseña</string>
+
+    <!-- Password -->
+    <string name="email_reset">Correo Electronico</string>
+    <string name="code">Código</string>
+    <string name="msn_reset_1">Ingrese correo electrónico, telefono, o nombre de usuario.</string>
+    <string name="msn_reset_2">Hemos enviado un mensaje con un código de confirmación de 6 digitos.</string>
+    <string name="msn_reset_3">Ingrése aqui para continuar con el restablecimiento de tu contraseña.</string>
+    <string name="msn_reset_4">La contraseña debe de tener 8 caracteres como minimo.</string>
+    <string name="msn_reset_5"><![CDATA[Hemos enviado un mensaje con un código de confirmación de <font color=#FFFFFF><b>6 digitos</b>.]]></string>
+    <string name="msn_reset_6">Te enviamos un codigo a.</string>
+    <string name="title_activity_reset_password_code">Restablecer Contraseña</string>
+    <string name="title_activity_reset_password_password">Restablecer Contraseña</string>
+    <string name="error_code">El codigo es invalido</string>
+
+    <!-- Colaboracion -->
+    <string name="title_activity_view_pager_activity_colaboradores">Información</string>
+    <string name="publicacion">Publicaciones</string>
+
+
+    <!-- Filter -->
+    <string name="filtro">Filtro</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+</resources>
