@@ -1,6 +1,6 @@
 #Gastronomica 
 
-# Descripción
+# Screenshot
 
 ![](http://res.cloudinary.com/dyamfdx4a/image/upload/v1503366249/Screenshot_2015-05-24-08-11-03_cp5szc.png)
 ![](http://res.cloudinary.com/dyamfdx4a/image/upload/v1503366254/Screenshot_2015-05-24-08-10-55_nzwl3v.png)
