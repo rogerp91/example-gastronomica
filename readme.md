@@ -1,5 +1,21 @@
 #Gastronomica 
 
+# Descripción
+
+![](http://res.cloudinary.com/dyamfdx4a/image/upload/v1503366249/Screenshot_2015-05-24-08-11-03_cp5szc.png)
+![](http://res.cloudinary.com/dyamfdx4a/image/upload/v1503366254/Screenshot_2015-05-24-08-10-55_nzwl3v.png)
+![](http://res.cloudinary.com/dyamfdx4a/image/upload/v1503366244/gas-1_nt1fgr.png)
+
+------
+
+# Descripción
+
+Gastronómica es una aplicación desarrollada en Android utilizada como prototipo en el Estado Nueva Esparta – Venezuela, basando en la información de restaurante importante del estado con sus respectiva información detallada del restaurante, localización, imágenes, mapas etc.
+
+Tecnologías Utilizadas: Android Framework, Google Maps, Butter Knife, Universal Image Loader, RoundedImageView, HtmlTextView, Material Dialogs, Asynchronous Http Client 
+
+---
+
 ##Informacion basica
 
 * Dominio: gastronomica.mobi
